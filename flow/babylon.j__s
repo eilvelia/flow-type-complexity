@@ -1,0 +1,10 @@
+// @flow
+
+import type { Program } from 'ast-types-flow'
+
+export type Options = {
+  plugins?: string[]
+}
+
+declare export function parse (code: string, options?: Options): Program
+declare export function parseExpression (code: string, options?: Options): Program

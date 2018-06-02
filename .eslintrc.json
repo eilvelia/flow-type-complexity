@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "@bannerets/eslint-config-flow"
+  ],
+  "rules": {
+    "indent": 0,
+    "indent-legacy": [2, 2, { "SwitchCase": 1 }]
+  }
+}

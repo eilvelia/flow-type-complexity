@@ -1,0 +1,21 @@
+[ignore]
+<PROJECT_ROOT>/dist/
+<PROJECT_ROOT>/node_modules/apropos/*
+<PROJECT_ROOT>/node_modules/immutable/.*
+
+<PROJECT_ROOT>/[A-Za-z]+-types.js
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.use_strict=true
+module.name_mapper='^flow-parser$' -> '<PROJECT_ROOT>/flow/flow-parser'
+# module.name_mapper='^babylon$' -> '<PROJECT_ROOT>/flow/babylon'
+module.name_mapper='^apropos$' -> '<PROJECT_ROOT>/flow/apropos'
+module.name_mapper='^memoizee$' -> '<PROJECT_ROOT>/flow/memoizee'
+
+[strict]
