@@ -8,3 +8,4 @@ flow-typed/npm/
 package-lock.json
 yarn.lock
 /*-types.js
+/*-bench.js
