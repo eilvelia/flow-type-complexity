@@ -57,7 +57,11 @@
     "type": "git",
     "url": "git+https://github.com/Bannerets/flow-type-complexity.git"
   },
-  "keywords": [],
+  "keywords": [
+    "flow",
+    "flowtype",
+    "type"
+  ],
   "bugs": {
     "url": "https://github.com/Bannerets/flow-type-complexity/issues"
   },
