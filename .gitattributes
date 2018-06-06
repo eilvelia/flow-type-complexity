@@ -1,0 +1,3 @@
+*.flow linguist-language=JavaScript
+
+types/ast.ts linguist-detectable=false
