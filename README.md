@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/flow-type-complexity.svg)](https://www.npmjs.com/package/flow-type-complexity)
 [![node](https://img.shields.io/node/v/flow-type-complexity.svg)](https://github.com/Bannerets/flow-type-complexity)
 
-Calculates complexity of each [Flow](https://flow.org/) type alias in file.  
+Calculates complexity of each [Flow](https://flow.org/) type alias in a file.  
 
 ### Installation
 

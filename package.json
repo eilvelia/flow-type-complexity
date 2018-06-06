@@ -1,6 +1,6 @@
 {
   "name": "flow-type-complexity",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Calculates complexity of each Flow type in file",
   "main": "dist/index.js",
   "scripts": {
